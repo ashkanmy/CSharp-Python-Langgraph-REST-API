@@ -16,4 +16,16 @@ touch env
 
 step 3 - open pycharm and then open X-folder
 
-###
+### create main file 
+
+step 5 - create main.py
+
+step 6 - before the run-buttom, click edit-configuration and set "script" to main.py
+
+step 7 - add 
+     if __name__ == " __main__ ":
+             print("Test")
+         to the main file and run it.
+
+### with main.py write the code 
+
