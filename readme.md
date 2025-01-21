@@ -35,3 +35,11 @@ Finally, as 9,19 (€) is less than our threshold values of 20,00 (€). Hence, 
     <img src="https://github.com/ashkanmy/Insight-Gallery/blob/main/Figs/rewe-discount-bill.png" width="512" height="812" alt="Edge Condition">
 </div>
 
+The construction of the graph using Langgraph is shown as below code snippet :
+
+<div align="center">
+    <img src="https://github.com/ashkanmy/Insight-Gallery/blob/main/Figs/tree.png" width="512" height="200" alt="Edge Condition">
+</div>
+
+
+
