@@ -29,7 +29,8 @@ edges represent the condition as part of the graph. Below is the Python code sni
     <img src="https://github.com/ashkanmy/Insight-Gallery/blob/main/Figs/EdgeCondition.png" width="1024" height="256" alt="Edge Condition">
 </div>
 
-Finally, as 9,19 (€) is less than our threshold values of 20,00 (€). Hence, the appeared "Diescounted sum ( in Euro ) :" (See below) is 8,73 (€) after reduction of 5% discount.
+Finally, as 9,19 (€) is less than our threshold values of 20,00 (€). Hence, the appeared "Diescounted sum ( in Euro ) :" (See below) is 8,73 (€) after reduction of 5% discount 
+from the initial amount of 9,19 (€).
 
 <div align="center">
     <img src="https://github.com/ashkanmy/Insight-Gallery/blob/main/Figs/rewe-discount-bill.png" width="512" height="812" alt="Edge Condition">
