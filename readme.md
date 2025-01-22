@@ -42,7 +42,7 @@ The construction of the graph using LangGraph is shown as below code snippet :
     <img src="https://github.com/ashkanmy/Insight-Gallery/blob/main/Figs/tree.png" width="512" height="200" alt="Edge Condition">
 </div>
 
-#### A short captured video from my monitor running the REST-API can be found here :
+## A short captured video from my monitor running the REST-API can be found here :
 https://vimeo.com/1049019449?share=copy
 
 
